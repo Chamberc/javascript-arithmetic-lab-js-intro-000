@@ -22,7 +22,7 @@ function decrement(n) {
   return (n -= 1);
 }
 
-function makeInt(n) {
+function parseInt(n) {
   var n = 5;
   return parseInt(('n'), 10);
 }
